@@ -1,0 +1,13 @@
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\MyTemplate_new38.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\MyTemplate_new38.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\WindowsFormsApplication1\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

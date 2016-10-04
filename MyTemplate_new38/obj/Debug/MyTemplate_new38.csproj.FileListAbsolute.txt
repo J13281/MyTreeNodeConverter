@@ -1,0 +1,8 @@
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\bin\Debug\MyTemplate_new38.exe.config
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\bin\Debug\MyTemplate_new38.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\bin\Debug\MyTemplate_new38.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\obj\Debug\MyTemplate_new38.csprojResolveAssemblyReference.cache
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\obj\Debug\MyTemplate_new38.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyTemplate_new38\MyTemplate_new38\obj\Debug\MyTemplate_new38.pdb
